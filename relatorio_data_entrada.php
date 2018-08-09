@@ -9,10 +9,8 @@
 			<p><label for="descen">Descrição:</label><textarea id="descen" required="required"></textarea></p>
 
 
-
-			<a href="menu.php"><button>Voltar</button></a>
-
 		</fieldset>
 	</form>
+	 <a href="menu.relatorio.php"><button>Voltar</button></a>
 </body>
 
