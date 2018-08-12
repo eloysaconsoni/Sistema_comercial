@@ -18,4 +18,5 @@
 			<p><input type="submit" name="gravar" value="Gravar"></p>
 		</fieldset>
 	</form>
-			<a href="menu.php"><button>Cancelar</button></a>
+			<a href="index.php"><button>Cancelar</button></a>
+	
