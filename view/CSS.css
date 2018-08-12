@@ -1,0 +1,54 @@
+.botao{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	transition-duration: 0.15s;
+}
+
+.botaoum{
+    position: absolute;
+    left: 300px; 
+    top: 400px;
+}
+
+.botaodois{
+    position: absolute;
+    left: 664px; 
+    top: 400px;
+}
+
+.botaotres{
+    position: absolute;
+    left: 1028px; 
+    top: 400px;
+}
+
+.botao:hover{
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -5px;
+    width: 110px;
+	height: 110px;
+    transition-duration: 0.15s;
+}
+
+.textos{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+.cabecalho{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 150px;
+}
+
+.cabecalhoTexto{
+    position: relative;
+    top: 33px;
+    left: 40%;
+    font-size: 50px;
+}

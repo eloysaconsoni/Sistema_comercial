@@ -3,8 +3,10 @@
 <head>
 	<title></title>
 	 <meta charset="utf-8">
+	 <link rel="shortcut icon" href="view/imagens/briefcase.ico">
 </head>
-<body>
+<body class="h1">
+	
 
 	<form name="login" method="post" action="menu.php"> 
 	<h2>Para acessar esse sistema por favor<br> 
