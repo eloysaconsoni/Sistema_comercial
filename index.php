@@ -5,7 +5,7 @@
 	 <meta charset="utf-8">
 	 <link rel="shortcut icon" href="view/imagens/book-bag.png">
 </head>
-<body class="h1">
+<body class="h1 fundo">
 	
 <link rel="stylesheet" type="text/css" href="view/CSS.css">
 
@@ -31,7 +31,13 @@
 			
 		
 </div>
+		<div>
+					
+</div>
 
 </div>
+<img style="position: fixed; top: 0px;  right: 20px; z-index: 2000;" src="view/imagens/captura.png">
+<a href="sobre.php">
+<img style="position: fixed; top: 7px;  right: 58px; z-index: 2001; width: 52px; height: 52px;" data-toggle="tooltip" data-placement="middle" title="Sobre nós" src="view/imagens/information.png"></a>
 	<?php include "cabecalho.php"; ?> <!--Serve para "linkar a outra aba, no caso a aba cabecalho.php. Ira executar tudo o que estiver na outra aba -->
 		
