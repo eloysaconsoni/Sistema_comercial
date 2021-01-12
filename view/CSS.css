@@ -1,0 +1,153 @@
+.botao{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	transition-duration: 0.27s;
+    z-index: 10;
+}
+
+.botaoum {
+    position: absolute;
+    left: 300px; 
+    top: 400px;
+    z-index: 10;
+    width: 100px;
+    height: 100px;
+}
+
+.botaodois{
+    position: absolute;
+    left: 664px; 
+    top: 400px;
+    z-index: 10;
+}
+
+.botaotres{
+    position: absolute;
+    left: 1028px; 
+    top: 395px;
+    z-index: 10;
+}
+
+.botaoquatro{
+    position: absolute;
+    left: 1380px; 
+    top: 395px;
+    z-index: 10;
+}
+
+.botao:hover img{
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -5px;
+    width: 110px;
+	height: 110px;
+    transition-duration: 0.27s;
+    z-index: 10;
+    
+}
+
+.textos{
+    position: absolute;  
+    white-space: nowrap; 
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+    z-index: 10;
+    transition-duration: 0.27s;
+}
+
+.textos:hover a{
+    color: #00FF7F;
+    padding-left: -2px;
+    padding-top: 2px;
+    font-size: 21px;
+    text-shadow: 1px 1px 5px black;
+    transition-duration: 0.27s;
+}
+
+.textos2{
+    position: absolute;  
+    white-space: nowrap; 
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    z-index: 10;
+    transition-duration: 0.27s;
+}
+
+.textos2:hover a{
+    color: #ED7161;
+    padding-left: -2px;
+    padding-top: 2px;
+    font-size: 21px;
+    text-shadow: 1px 1px 5px black;
+    transition-duration: 0.27s;
+}
+
+.textos3{
+    position: absolute;  
+    white-space: nowrap; 
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    z-index: 10;
+    transition-duration: 0.27s;
+}
+
+.textos3:hover a{
+    color: #FFC850;
+    padding-left: -2px;
+    padding-top: 2px;
+    font-size: 21px;
+    text-shadow: 1px 1px 5px black;
+    transition-duration: 0.27s;
+}
+
+.textos4{
+    position: absolute;  
+    white-space: nowrap; 
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    z-index: 10;
+    transition-duration: 0.27s;
+}
+
+.textos4:hover a{
+    color: #00ABF0;
+    padding-left: -2px;
+    padding-top: 2px;
+    font-size: 21px;
+    text-shadow: 1px 1px 5px black;
+    transition-duration: 0.27s;
+}
+
+.cabecalhoTexto{
+    position: fixed;
+    background: currentColor;
+    background-color: black;
+    white-space: nowrap;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 795px;
+    padding-right: 100%;
+    color: #00FF7F;
+    font-style: italic;
+    font-weight: bolder;
+    z-index: 999;
+    text-shadow: 1px 1px 5px black;
+    top: -50px;
+    left: 0px;
+    font-size: 50px;
+}
+
+.fundo{
+    position: absolute;
+    background-color: #4B4B4D;
+    left: 0px;
+    top: 0px;
+    padding-right: 100%;
+    padding-bottom: 100%;
+    z-index: 0;
+}
